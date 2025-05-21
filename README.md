@@ -53,7 +53,7 @@ Z=a+b
 C=a-b 
 C=a-b
 # OUTPUT
-![Screenshot 2025-05-21 152149](https://github.com/user-attachments/assets/08b88355-f616-48f4-a504-5ce87c558a1b)
+
 
 
 # Result
