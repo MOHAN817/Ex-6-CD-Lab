@@ -54,7 +54,7 @@ C=a-b
 C=a-b
 ```
 # OUTPUT
-![Screenshot (2)](https://github.com/user-attachments/assets/e9c28167-6e08-43e2-a761-dc0b82a99ea6)
+![Screenshot 2025-05-21 154402](https://github.com/user-attachments/assets/e61debf4-a71d-4150-90f7-ab7e6a6db2f1)
 
 
 # Result
