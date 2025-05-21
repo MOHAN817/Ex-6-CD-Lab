@@ -11,7 +11,7 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 # PROGRAM
-~~~
+```python
 #include <stdio.h> 
 #include <ctype.h> 
 #include <stdlib.h>
@@ -52,9 +52,10 @@ Y=a-c
 Z=a+b 
 C=a-b 
 C=a-b
+```
 # OUTPUT
+![Screenshot 2025-05-21 154622](https://github.com/user-attachments/assets/fbb5f1b8-f90b-4a92-a479-9ca4dfa9d5db)
 
-![Screenshot 2025-05-21 154622](https://github.com/user-attachments/assets/6e0e8797-0598-4690-b27a-ae3284ad7866)
 
 
 # Result
